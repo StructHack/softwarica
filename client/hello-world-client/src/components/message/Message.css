@@ -1,0 +1,15 @@
+.message-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:1em;
+    padding:10px;
+    font-size: 30px;
+}
+
+.message-box span{
+    background-color: rgba(130, 130, 239, 0.5);
+    padding:0.5em;
+    flex-grow: 1;
+}

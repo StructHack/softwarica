@@ -1,0 +1,8 @@
+.header{
+    background-color: var(--bg);
+    color:white;
+}
+
+.header #message{
+    font-size: 60px;
+}
